@@ -1,0 +1,21 @@
+{
+  "id": "complianceos",
+  "name": "ComplianceOS",
+  "tagline": "Enterprise compliance automation for SOC 2, ISO 27001, HIPAA & GDPR",
+  "description": "ComplianceOS is a multi-tenant enterprise SaaS platform for compliance automation. Replace $50k/year consultants and spreadsheets with AI-assisted evidence collection, automated control tracking, and real-time compliance dashboards. Built for startups and enterprises pursuing SOC 2, ISO 27001, HIPAA, and GDPR.",
+  "category": "Compliance & Security",
+  "tags": ["compliance", "soc2", "iso27001", "hipaa", "gdpr", "security", "enterprise", "saas", "ai"],
+  "url": "https://auroramarket.org/complianceos",
+  "demo": "https://complianceos.vercel.app",
+  "repo": "https://github.com/AURORA-RAYE/beginings",
+  "stack": ["Next.js 14", "TypeScript", "Supabase", "PostgreSQL", "Stripe", "OpenAI", "Tailwind CSS", "shadcn/ui"],
+  "status": "MVP",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT",
+  "pricing": {
+    "starter": "$99/month",
+    "professional": "$299/month",
+    "enterprise": "Custom"
+  }
+}
