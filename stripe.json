@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "complianceos_starter",
+      "name": "ComplianceOS Starter",
+      "description": "For startups starting their compliance journey",
+      "mode": "subscription",
+      "prices": [
+        {
+          "id": "starter_monthly",
+          "amount": 9900,
+          "currency": "usd",
+          "interval": "month",
+          "description": "$99/month"
+        },
+        {
+          "id": "starter_annual",
+          "amount": 95900,
+          "currency": "usd",
+          "interval": "year",
+          "description": "$959/year (save ~20%)"
+        }
+      ],
+      "features": ["1 compliance framework", "Up to 10 users", "Evidence collection", "Basic dashboard", "Email support", "14-day free trial"]
+    },
+    {
+      "id": "complianceos_professional",
+      "name": "ComplianceOS Professional",
+      "description": "For growing teams pursuing multiple frameworks",
+      "mode": "subscription",
+      "prices": [
+        {
+          "id": "pro_monthly",
+          "amount": 29900,
+          "currency": "usd",
+          "interval": "month",
+          "description": "$299/month"
+        },
+        {
+          "id": "pro_annual",
+          "amount": 287900,
+          "currency": "usd",
+          "interval": "year",
+          "description": "$2,879/year (save ~20%)"
+        }
+      ],
+      "features": ["3 compliance frameworks", "Up to 50 users", "AI gap analysis", "Full audit reports", "Risk register", "API access", "Priority support", "14-day free trial"]
+    },
+    {
+      "id": "complianceos_enterprise",
+      "name": "ComplianceOS Enterprise",
+      "description": "For large organizations and enterprises",
+      "mode": "custom",
+      "prices": [],
+      "features": ["Unlimited frameworks", "Unlimited users", "SSO/SAML", "Custom integrations", "Dedicated success manager", "SLA 99.99%", "On-premise option", "White-label available"]
+    }
+  ],
+  "trial_days": 14,
+  "webhook_events": ["checkout.session.completed", "customer.subscription.created", "customer.subscription.updated", "customer.subscription.deleted", "invoice.payment_succeeded", "invoice.payment_failed"]
+}
