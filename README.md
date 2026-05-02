@@ -82,6 +82,20 @@ Open [http://localhost:3000](http://localhost:3000).
 | `OPENAI_API_KEY` | OpenAI API key for AI features |
 | `NEXT_PUBLIC_APP_URL` | Your app URL |
 
+## CI Validation
+
+The GitHub Actions workflow (`.github/workflows/ci.yml`) validates install, lint, type-check, test, and build on pushes and pull requests. The workflow uses script-aware commands (`--if-present`) so optional scripts do not break validation.
+
+## Deploy to Vercel
+
+1. Import the repository into Vercel.
+2. Keep framework preset as **Next.js**.
+3. Add production environment variables from `.env.example`.
+4. Set `NEXT_PUBLIC_APP_URL` to your Vercel project URL.
+5. Deploy and verify auth, billing, and AI flows in production.
+
+`vercel.json` is already configured for this setup.
+
 ## Pricing
 
 | Feature | Starter | Professional | Enterprise |
