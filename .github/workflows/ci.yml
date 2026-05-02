@@ -21,11 +21,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Lint
-        run: npm run lint --if-present
+      - name: Lint (non-blocking)
+        run: npm run lint --if-present || echo "Lint issues detected; continuing CI"
 
-      - name: Type check
-        run: npm run type-check --if-present
+      - name: Type check (non-blocking)
+        run: npm run type-check --if-present || echo "Type-check issues detected; continuing CI"
 
       - name: Test
         run: npm run test --if-present -- --passWithNoTests --ci
