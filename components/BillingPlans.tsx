@@ -68,7 +68,7 @@ export function BillingPlans({ currentPlan }: Props) {
 
   const handleUpgrade = async (planId: string) => {
     if (planId === "enterprise") {
-      window.location.href = "mailto:sales@complianceos.io?subject=Enterprise%20Plan%20Enquiry";
+      window.location.href = "mailto:REPLACE_WITH_AURORA_RAYES_SALES_EMAIL?subject=Enterprise%20Plan%20Enquiry";
       return;
     }
     setLoading(planId);

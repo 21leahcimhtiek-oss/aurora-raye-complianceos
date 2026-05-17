@@ -2,16 +2,20 @@
   "bundles": [
     {
       "id": "aurora-enterprise-security",
-      "name": "Aurora Enterprise Security Bundle",
-      "description": "Complete enterprise security and compliance toolkit",
-      "apps": ["complianceos"],
+      "name": "Aurora Rayes Ecosystem Bundle",
+      "description": "Curated Aurora Rayes application and agent suite",
+      "apps": [
+        "complianceos"
+      ],
       "discount_percent": 0
     },
     {
       "id": "aurora-enterprise-suite",
-      "name": "Aurora Enterprise Suite",
-      "description": "Full enterprise operations platform",
-      "apps": ["complianceos", "invoiceforge", "gitdigest"],
+      "name": "Aurora Rayes Ecosystem Bundle",
+      "description": "Curated Aurora Rayes application and agent suite",
+      "apps": [
+        "complianceos"
+      ],
       "discount_percent": 25
     }
   ]

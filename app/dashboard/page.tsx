@@ -41,7 +41,7 @@ export default async function DashboardPage() {
             <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
               <span className="font-bold text-sm">C</span>
             </div>
-            <span className="font-semibold">ComplianceOS</span>
+            <span className="font-semibold">Aurora Rayes ComplianceOS</span>
           </div>
           <p className="text-slate-400 text-xs mt-1 truncate">{profile?.organizations?.name}</p>
         </div>

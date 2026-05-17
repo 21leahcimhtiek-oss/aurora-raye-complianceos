@@ -1,4 +1,4 @@
-# ComplianceOS — Social Media Posts
+# Aurora Rayes ComplianceOS — Social Media Posts
 
 Seven ready-to-publish posts for LinkedIn, Twitter/X, and product communities.
 
@@ -6,7 +6,7 @@ Seven ready-to-publish posts for LinkedIn, Twitter/X, and product communities.
 
 ## Post 1 — Launch Announcement (LinkedIn / Twitter)
 
-> 🚀 Introducing **ComplianceOS** — the compliance automation platform that replaces your spreadsheets, consultants, and late-night audit panic.
+> 🚀 Introducing **Aurora Rayes ComplianceOS** — the compliance automation platform that replaces your spreadsheets, consultants, and late-night audit panic.
 >
 > ✅ SOC 2, ISO 27001, HIPAA, GDPR, PCI-DSS in one place
 > 🤖 AI gap analysis powered by GPT-4
@@ -18,7 +18,7 @@ Seven ready-to-publish posts for LinkedIn, Twitter/X, and product communities.
 >
 > Starter plan from **$69/month**. 14-day free trial, no credit card required.
 >
-> 👉 Try ComplianceOS free: https://complianceos.io
+> 👉 Try Aurora Rayes ComplianceOS free: https://aurorarayes.example/complianceos
 >
 > #compliance #soc2 #iso27001 #hipaa #cybersecurity #startup #GRC
 
@@ -38,9 +38,9 @@ Seven ready-to-publish posts for LinkedIn, Twitter/X, and product communities.
 >
 > There's a better way. 👇
 >
-> ComplianceOS automates the boring parts so you can close enterprise deals — not spreadsheets.
+> Aurora Rayes ComplianceOS automates the boring parts so you can close enterprise deals — not spreadsheets.
 >
-> Free trial: https://complianceos.io
+> Free trial: https://aurorarayes.example/complianceos
 
 ---
 
@@ -50,7 +50,7 @@ Seven ready-to-publish posts for LinkedIn, Twitter/X, and product communities.
 >
 > We automated that.
 >
-> ComplianceOS's AI Gap Analysis uses GPT-4 to:
+> Aurora Rayes ComplianceOS's AI Gap Analysis uses GPT-4 to:
 > • Scan your entire control matrix
 > • Identify gaps against SOC 2, ISO 27001, HIPAA, GDPR, or PCI-DSS
 > • Prioritise by severity (Critical → Low)
@@ -66,13 +66,13 @@ Seven ready-to-publish posts for LinkedIn, Twitter/X, and product communities.
 
 ## Post 4 — Social Proof / Use Case (LinkedIn)
 
-> "We went from zero to SOC 2 Type II in 4 months with ComplianceOS. Our auditors were impressed with the evidence organisation and the real-time compliance score kept our board updated throughout the process."
+> "We went from zero to SOC 2 Type II in 4 months with Aurora Rayes ComplianceOS. Our auditors were impressed with the evidence organisation and the real-time compliance score kept our board updated throughout the process."
 >
 > — CTO, Series B SaaS company
 >
-> If you're a startup that needs to close enterprise deals, SOC 2 is table stakes. ComplianceOS makes it achievable without a 6-month, $100k engagement.
+> If you're a startup that needs to close enterprise deals, SOC 2 is table stakes. Aurora Rayes ComplianceOS makes it achievable without a 6-month, $100k engagement.
 >
-> Start your free trial: https://complianceos.io
+> Start your free trial: https://aurorarayes.example/complianceos
 >
 > #soc2 #compliance #startup #saas #security
 
@@ -80,11 +80,11 @@ Seven ready-to-publish posts for LinkedIn, Twitter/X, and product communities.
 
 ## Post 5 — Product Hunt Launch (Product Hunt)
 
-> **ComplianceOS — Compliance automation for engineering-led teams**
+> **Aurora Rayes ComplianceOS — Compliance automation for engineering-led teams**
 >
 > Hey PH! 👋
 >
-> We're launching ComplianceOS — the platform that replaces spreadsheets and consultants for SOC 2, ISO 27001, HIPAA, GDPR, and PCI-DSS compliance.
+> We're launching Aurora Rayes ComplianceOS — the platform that replaces spreadsheets and consultants for SOC 2, ISO 27001, HIPAA, GDPR, and PCI-DSS compliance.
 >
 > **What we built:**
 > 🤖 AI Gap Analysis (GPT-4) that finds your compliance gaps in minutes
@@ -105,17 +105,17 @@ Seven ready-to-publish posts for LinkedIn, Twitter/X, and product communities.
 > 📊 DIY with spreadsheets: "free" (until the audit fails — $30k to fix)
 > 👨‍💼 Compliance consultant: $50–150k per audit
 > 🏢 Legacy GRC platform: $10–50k/year + 6 months implementation
-> ✅ ComplianceOS: from $69/month, ready in minutes
+> ✅ Aurora Rayes ComplianceOS: from $69/month, ready in minutes
 >
 > We built the platform we wish existed when we were preparing for our first SOC 2.
 >
-> 14-day free trial 👉 https://complianceos.io
+> 14-day free trial 👉 https://aurorarayes.example/complianceos
 
 ---
 
 ## Post 7 — Developer / Hacker News (Hacker News / Dev.to)
 
-> **Show HN: ComplianceOS — We built the compliance platform we always wanted**
+> **Show HN: Aurora Rayes ComplianceOS — We built the compliance platform we always wanted**
 >
 > Hey HN — we're a team of engineers who spent way too many hours filling out SOC 2 spreadsheets and decided to build something better.
 >

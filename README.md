@@ -1,4 +1,4 @@
-# ComplianceOS
+# Aurora Rayes ComplianceOS
 
 > Enterprise compliance automation platform for SOC 2, ISO 27001, HIPAA, and GDPR.
 
@@ -7,9 +7,9 @@
 
 ## Overview
 
-ComplianceOS is a multi-tenant SaaS platform that automates compliance management for modern engineering teams. Replace expensive compliance consultants and clunky spreadsheets with AI-assisted evidence collection, automated control tracking, and real-time compliance dashboards.
+Aurora Rayes ComplianceOS is a multi-tenant SaaS platform that automates compliance management for modern engineering teams. Replace expensive compliance consultants and clunky spreadsheets with AI-assisted evidence collection, automated control tracking, and real-time compliance dashboards.
 
-**[Live Demo](https://complianceos.vercel.app)** | **[Marketplace](https://auroramarket.org/complianceos)** | **[Docs](https://docs.complianceos.app)**
+**[Live Demo](https://aurorarayes.example/complianceos)** | **[Marketplace](https://aurorarayes.example/complianceos)** | **[Docs](https://aurorarayes.example/complianceos/docs)**
 
 ## Features
 
@@ -109,7 +109,7 @@ The GitHub Actions workflow (`.github/workflows/ci.yml`) validates install, lint
 
 ## Marketplace
 
-🛒 **[ComplianceOS on Aurora Market](https://auroramarket.org/complianceos)**
+🛒 **[Aurora Rayes ComplianceOS on Aurora Rayes ecosystem](https://aurorarayes.example/complianceos)**
 
 ## License
 
@@ -117,4 +117,21 @@ MIT — see [LICENSE](LICENSE)
 
 ---
 
-Built by [Aurora Rayes LLC](https://auroramarket.org) | [auroramarket.org/complianceos](https://auroramarket.org/complianceos)
+Built by [Aurora Rayes LLC](https://aurorarayes.example) | [aurorarayes.example/complianceos](https://aurorarayes.example/complianceos)
+## Commercial Use Cases
+
+Aurora Rayes ComplianceOS is part of the Aurora Rayes ecosystem for compliance automation. It is packaged for engineering-led teams preparing for audits that need to solve: SOC 2, ISO 27001, HIPAA, and GDPR work spreads across spreadsheets and consultants.
+
+- SOC 2 readiness workspace
+- Evidence collection tracker
+- Compliance operating system
+
+## Pricing & Packaging
+
+Pricing is intentionally represented with placeholders until a sales owner connects approved billing infrastructure. See [SELL.md](SELL.md) for packaging guidance, tier placeholders, and sales enablement notes.
+
+Payments are disabled by default. Use PAYMENTS_ENABLED=false locally and only enable checkout after replacing placeholder provider environment variables with approved credentials.
+
+## Support and Refund Terms
+
+Support and refund expectations are documented in [docs/support.md](docs/support.md) and [docs/refund-policy.md](docs/refund-policy.md). Use placeholder emails and URLs until official Aurora Rayes channels are assigned.

@@ -35,7 +35,7 @@ export default function LoginPage() {
           <div className="inline-flex items-center justify-center w-12 h-12 bg-indigo-600 rounded-xl mb-4">
             <span className="text-white font-bold text-xl">C</span>
           </div>
-          <h1 className="text-2xl font-bold text-white">Sign in to ComplianceOS</h1>
+          <h1 className="text-2xl font-bold text-white">Sign in to Aurora Rayes ComplianceOS</h1>
           <p className="text-slate-400 mt-2">Enter your credentials to continue</p>
         </div>
 

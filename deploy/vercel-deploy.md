@@ -1,6 +1,6 @@
-# Deploying ComplianceOS to Vercel
+# Deploying Aurora Rayes ComplianceOS to Vercel
 
-This guide walks you through deploying ComplianceOS to Vercel from scratch.
+This guide walks you through deploying Aurora Rayes ComplianceOS to Vercel from scratch.
 
 ---
 
@@ -83,7 +83,7 @@ Set these in **Vercel Dashboard → Project → Settings → Environment Variabl
 | `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY` | Stripe publishable key |
 | `STRIPE_WEBHOOK_SECRET` | Stripe webhook signing secret |
 | `SENTRY_DSN` | Sentry DSN (optional) |
-| `NEXTAUTH_URL` | Your deployment URL (e.g. `https://complianceos.vercel.app`) |
+| `NEXTAUTH_URL` | Your deployment URL (e.g. `https://aurorarayes.example/complianceos`) |
 
 ---
 

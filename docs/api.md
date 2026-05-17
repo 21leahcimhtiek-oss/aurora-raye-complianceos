@@ -1,4 +1,4 @@
-# ComplianceOS API Reference
+# Aurora Rayes ComplianceOS API Reference
 
 All API routes are under `/api/`. Authentication is required on all routes (Supabase JWT in cookie). Rate limits apply — see headers `X-RateLimit-Limit`, `X-RateLimit-Remaining`, `Retry-After`.
 
@@ -6,7 +6,7 @@ All API routes are under `/api/`. Authentication is required on all routes (Supa
 
 ## Authentication
 
-ComplianceOS uses Supabase Auth. Authenticate via the UI (login/signup) — the session cookie is automatically sent with every request.
+Aurora Rayes ComplianceOS uses Supabase Auth. Authenticate via the UI (login/signup) — the session cookie is automatically sent with every request.
 
 ---
 
@@ -268,7 +268,7 @@ Create a Stripe Checkout session.
 
 **Response 200**
 ```json
-{ "url": "https://checkout.stripe.com/pay/cs_..." }
+{ "url": "REPLACE_WITH_CHECKOUT_SESSION_URL" }
 ```
 
 ---
