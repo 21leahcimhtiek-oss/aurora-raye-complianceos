@@ -1,7 +1,7 @@
 {
   "name": "complianceos",
   "version": "1.0.0",
-  "description": "Enterprise compliance automation platform — SOC 2, ISO 27001, HIPAA, GDPR",
+  "description": "complianceos in the Aurora ecosystem with a no-key-first local workflow.",
   "private": true,
   "scripts": {
     "dev": "next dev",

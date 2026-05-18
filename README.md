@@ -118,3 +118,13 @@ MIT — see [LICENSE](LICENSE)
 ---
 
 Built by [Aurora Rayes LLC](https://auroramarket.org) | [auroramarket.org/complianceos](https://auroramarket.org/complianceos)
+
+## Aurora Ecosystem Positioning
+This repository is positioned as an Aurora ecosystem building block, designed to interoperate with other Aurora projects for productized AI workflows.
+
+## No-Key-First Local Usage
+Use a no-key-first local workflow by default: run and evaluate core features without mandatory API keys, then optionally add provider keys for advanced integrations.
+
+## No-Key-First Usage
+This project follows a no-key-first approach for local evaluation. Core workflows run without API keys, and external providers are optional for advanced integrations.
+
