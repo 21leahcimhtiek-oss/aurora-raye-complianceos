@@ -1,8 +1,8 @@
-# ComplianceOS — Product Description
+# Aurora Rayes ComplianceOS — Product Description
 
 ## Stop drowning in compliance spreadsheets.
 
-ComplianceOS is the all-in-one compliance automation platform built for engineering-led teams. Whether you are preparing for your first SOC 2 audit, maintaining ISO 27001 certification, or navigating HIPAA, GDPR, and PCI-DSS simultaneously — ComplianceOS replaces your messy spreadsheets, shared Google Docs, and consultant invoices with a single, audit-ready platform.
+Aurora Rayes ComplianceOS is the all-in-one compliance automation platform built for engineering-led teams. Whether you are preparing for your first SOC 2 audit, maintaining ISO 27001 certification, or navigating HIPAA, GDPR, and PCI-DSS simultaneously — Aurora Rayes ComplianceOS replaces your messy spreadsheets, shared Google Docs, and consultant invoices with a single, audit-ready platform.
 
 ---
 
@@ -22,7 +22,7 @@ The result? Companies fail audits, lose enterprise deals, and spend millions on 
 
 ## The Solution
 
-ComplianceOS automates the boring parts of compliance so your team can focus on building:
+Aurora Rayes ComplianceOS automates the boring parts of compliance so your team can focus on building:
 
 ### 🤖 AI Gap Analysis
 Our GPT-4-powered gap analysis scans your controls, cross-references industry benchmarks, and produces a prioritised remediation plan in minutes — not months.
@@ -44,7 +44,7 @@ Invite your security team, engineers, and legal counsel. Assign controls and fin
 
 ---
 
-## Who Is ComplianceOS For?
+## Who Is Aurora Rayes ComplianceOS For?
 
 **Engineering teams** at Series A–C companies preparing for their first SOC 2 or ISO 27001 audit.
 
@@ -58,7 +58,7 @@ Invite your security team, engineers, and legal counsel. Assign controls and fin
 
 ## Key Differentiators
 
-| Feature | ComplianceOS | Spreadsheets | Consultants | Legacy GRC |
+| Feature | Aurora Rayes ComplianceOS | Spreadsheets | Consultants | Legacy GRC |
 |---|---|---|---|---|
 | Setup time | Minutes | Days | Weeks | Months |
 | AI gap analysis | ✅ | ❌ | Manual | Limited |
@@ -81,7 +81,7 @@ Invite your security team, engineers, and legal counsel. Assign controls and fin
 
 ## Security & Compliance
 
-ComplianceOS is built on a security-first architecture:
+Aurora Rayes ComplianceOS is built on a security-first architecture:
 
 - Row-Level Security (RLS) ensures complete tenant isolation
 - All data encrypted at rest and in transit (TLS 1.3)

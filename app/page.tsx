@@ -10,7 +10,7 @@ export default function HomePage() {
             <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-sm">C</span>
             </div>
-            <span className="text-white font-semibold text-lg">ComplianceOS</span>
+            <span className="text-white font-semibold text-lg">Aurora Rayes ComplianceOS</span>
           </div>
           <nav className="hidden md:flex items-center gap-6 text-sm text-slate-300">
             <a href="#features" className="hover:text-white transition-colors">Features</a>
@@ -40,7 +40,7 @@ export default function HomePage() {
           <span className="text-indigo-400">without the $50k bill</span>
         </h1>
         <p className="text-xl text-slate-400 max-w-3xl mx-auto mb-10">
-          ComplianceOS helps engineering teams achieve SOC 2, ISO 27001, HIPAA, and GDPR compliance
+          Aurora Rayes ComplianceOS helps engineering teams achieve SOC 2, ISO 27001, HIPAA, and GDPR compliance
           with AI-assisted evidence collection, automated control tracking, and real-time dashboards.
           Starting at $99/month.
         </p>
@@ -153,12 +153,12 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-slate-400 text-sm">
-              © 2024 <a href="https://auroramarket.org" className="text-indigo-400 hover:text-indigo-300">Aurora Rayes LLC</a>. All rights reserved.
+              © 2024 <a href="https://aurorarayes.example" className="text-indigo-400 hover:text-indigo-300">Aurora Rayes LLC</a>. All rights reserved.
             </div>
             <div className="flex items-center gap-6 text-sm text-slate-400">
               <a href="/privacy" className="hover:text-white transition-colors">Privacy</a>
               <a href="/terms" className="hover:text-white transition-colors">Terms</a>
-              <a href="https://auroramarket.org/complianceos" className="hover:text-white transition-colors">Aurora Market</a>
+              <a href="https://aurorarayes.example/complianceos" className="hover:text-white transition-colors">Aurora Rayes ecosystem</a>
               <a href="https://github.com/AURORA-RAYE/beginings" className="hover:text-white transition-colors">GitHub</a>
             </div>
           </div>

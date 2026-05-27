@@ -2,8 +2,8 @@
   "products": [
     {
       "id": "complianceos_starter",
-      "name": "ComplianceOS Starter",
-      "description": "For startups starting their compliance journey",
+      "name": "Aurora Rayes ComplianceOS Starter",
+      "description": "Starter placeholder packaging for Aurora Rayes ComplianceOS. Replace with approved billing copy before enabling checkout.",
       "mode": "subscription",
       "prices": [
         {
@@ -21,12 +21,19 @@
           "description": "$959/year (save ~20%)"
         }
       ],
-      "features": ["1 compliance framework", "Up to 10 users", "Evidence collection", "Basic dashboard", "Email support", "14-day free trial"]
+      "features": [
+        "1 compliance framework",
+        "Up to 10 users",
+        "Evidence collection",
+        "Basic dashboard",
+        "Email support",
+        "14-day free trial"
+      ]
     },
     {
       "id": "complianceos_professional",
-      "name": "ComplianceOS Professional",
-      "description": "For growing teams pursuing multiple frameworks",
+      "name": "Aurora Rayes ComplianceOS Pro",
+      "description": "Pro placeholder packaging for Aurora Rayes ComplianceOS. Replace with approved billing copy before enabling checkout.",
       "mode": "subscription",
       "prices": [
         {
@@ -44,17 +51,42 @@
           "description": "$2,879/year (save ~20%)"
         }
       ],
-      "features": ["3 compliance frameworks", "Up to 50 users", "AI gap analysis", "Full audit reports", "Risk register", "API access", "Priority support", "14-day free trial"]
+      "features": [
+        "3 compliance frameworks",
+        "Up to 50 users",
+        "AI gap analysis",
+        "Full audit reports",
+        "Risk register",
+        "API access",
+        "Priority support",
+        "14-day free trial"
+      ]
     },
     {
       "id": "complianceos_enterprise",
-      "name": "ComplianceOS Enterprise",
-      "description": "For large organizations and enterprises",
+      "name": "Aurora Rayes ComplianceOS Enterprise",
+      "description": "Enterprise placeholder packaging for Aurora Rayes ComplianceOS. Replace with approved billing copy before enabling checkout.",
       "mode": "custom",
       "prices": [],
-      "features": ["Unlimited frameworks", "Unlimited users", "SSO/SAML", "Custom integrations", "Dedicated success manager", "SLA 99.99%", "On-premise option", "White-label available"]
+      "features": [
+        "Unlimited frameworks",
+        "Unlimited users",
+        "SSO/SAML",
+        "Custom integrations",
+        "Dedicated success manager",
+        "SLA 99.99%",
+        "On-premise option",
+        "White-label available"
+      ]
     }
   ],
   "trial_days": 14,
-  "webhook_events": ["checkout.session.completed", "customer.subscription.created", "customer.subscription.updated", "customer.subscription.deleted", "invoice.payment_succeeded", "invoice.payment_failed"]
+  "webhook_events": [
+    "checkout.session.completed",
+    "customer.subscription.created",
+    "customer.subscription.updated",
+    "customer.subscription.deleted",
+    "invoice.payment_succeeded",
+    "invoice.payment_failed"
+  ]
 }

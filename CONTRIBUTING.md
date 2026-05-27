@@ -1,4 +1,4 @@
-# Contributing to ComplianceOS
+# Contributing to Aurora Rayes ComplianceOS
 
 Thank you for your interest in contributing! This project is maintained by **Aurora Rayes LLC** and follows the [Aurora Production Standards](https://github.com/AURORA-RAYE/.github/blob/main/PRODUCTION_STANDARDS.md).
 
@@ -41,4 +41,4 @@ Be respectful. Aurora operates a zero-tolerance policy for harassment.
 
 ---
 
-*Aurora Rayes LLC — [auroramarket.org](https://auroramarket.org)*
+*Aurora Rayes LLC — [aurorarayes.example](https://aurorarayes.example)*

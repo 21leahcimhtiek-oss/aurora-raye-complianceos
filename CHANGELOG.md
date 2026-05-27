@@ -1,9 +1,9 @@
 # Changelog
 
-All notable changes to ComplianceOS are documented here.
+All notable changes to Aurora Rayes ComplianceOS are documented here.
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
-ComplianceOS uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+Aurora Rayes ComplianceOS uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 

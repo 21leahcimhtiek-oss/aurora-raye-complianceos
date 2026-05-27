@@ -1,88 +1,38 @@
-# ComplianceOS — Pricing & Plans
+# Aurora Rayes ComplianceOS — Sales Brief
 
-ComplianceOS is the all-in-one compliance automation platform for engineering-led teams. Stop spending weeks on manual GRC work — automate your SOC 2, ISO 27001, HIPAA, GDPR, and PCI-DSS compliance in days.
+## Positioning
 
----
+Aurora Rayes ComplianceOS is an Aurora Rayes ecosystem product for compliance automation. It helps engineering-led teams preparing for audits when SOC 2, ISO 27001, HIPAA, and GDPR work spreads across spreadsheets and consultants.
 
-## Pricing Tiers
+## Core Value
 
-### 🟢 Starter — $69 / month
-_Best for early-stage startups and small teams._
+AI-assisted evidence, controls, findings, and audit reporting.
 
-| Feature | Included |
-|---|---|
-| Compliance Frameworks | 5 (choose from SOC 2, ISO 27001, HIPAA, GDPR, PCI-DSS) |
-| Team Members | Up to 10 |
-| Control Management | ✅ |
-| Evidence Collection | ✅ |
-| Audit-Ready Reports | PDF exports |
-| Findings Tracker | ✅ |
-| Integrations | Slack, GitHub |
-| Support | Email (48 h SLA) |
-| AI Gap Analysis | ❌ |
-| SSO / SAML | ❌ |
-| API Access | ❌ |
+## Target Buyers
 
----
+- Operators who need an AI-assisted workflow without commissioning a custom build.
+- Agencies and teams that want a branded, productized automation asset.
+- Founders validating a paid AI workflow before committing to bespoke engineering.
 
-### 🔵 Pro — $179 / month
-_Best for growth-stage companies preparing for audits._
+## Packaging Placeholders
 
-| Feature | Included |
-|---|---|
-| Compliance Frameworks | Unlimited |
-| Team Members | Up to 50 |
-| Control Management | ✅ Advanced workflows |
-| Evidence Collection | ✅ Automated collection |
-| Audit-Ready Reports | PDF + CSV + scheduled |
-| Findings Tracker | ✅ Priority scoring |
-| Integrations | Slack, GitHub, Jira, AWS, GCP |
-| Support | Priority email + chat (24 h SLA) |
-| AI Gap Analysis | ✅ GPT-4-powered |
-| SSO / SAML | ❌ |
-| API Access | ❌ |
+| Tier | Placeholder Price | Intended Buyer | Notes |
+| --- | --- | --- | --- |
+| Starter | REPLACE_WITH_STARTER_PRICE | Individual or pilot team | Core workflow, basic support, limited usage. |
+| Pro | REPLACE_WITH_PRO_PRICE | Growing team | Higher usage, team workflows, priority support. |
+| Enterprise | REPLACE_WITH_ENTERPRISE_PRICE | Organization | Custom deployment, security review, procurement support. |
 
----
+No live checkout or payment link is included. Add approved Stripe, RevenueCat, or marketplace checkout only after legal, support, and refund terms are finalized.
 
-### 🟣 Enterprise — $449 / month
-_Best for regulated industries and large organisations._
+## Sales Assets
 
-| Feature | Included |
-|---|---|
-| Compliance Frameworks | Unlimited |
-| Team Members | Unlimited |
-| Control Management | ✅ Custom frameworks |
-| Evidence Collection | ✅ Automated + custom connectors |
-| Audit-Ready Reports | All formats + white-label |
-| Findings Tracker | ✅ SLA enforcement |
-| Integrations | All + custom webhooks |
-| Support | Dedicated CSM + 4 h SLA |
-| AI Gap Analysis | ✅ Custom models |
-| SSO / SAML | ✅ |
-| API Access | ✅ Full REST API |
-| Audit Trail | ✅ Immutable logs |
-| Data Residency | ✅ EU / US choice |
-| SLA | 99.9 % uptime guarantee |
+- Product README: README.md
+- Marketing pitch: marketing/pitch.md
+- Support terms: docs/support.md
+- Refund terms: docs/refund-policy.md
 
----
+## Qualification Questions
 
-## Add-Ons
-
-| Add-On | Price |
-|---|---|
-| Additional 10 team members | $29 / month |
-| Extra framework (Starter only) | $19 / month |
-| On-premise deployment | Contact us |
-| Audit Manager concierge | $499 / engagement |
-
----
-
-## FAQ
-
-**Can I switch plans?** Yes — upgrade or downgrade at any time. Prorated billing applies.
-
-**Is there a free trial?** Yes — 14-day free trial on Starter and Pro, no credit card required.
-
-**Do you offer non-profit / startup discounts?** Yes — contact sales@complianceos.io.
-
-**What payment methods do you accept?** Credit/debit cards (Stripe). Annual billing available at 20 % discount.
+1. Which workflow should Aurora Rayes ComplianceOS automate first?
+2. What systems, documents, or datasets need to be connected?
+3. What usage limits, compliance requirements, and support SLA are required for purchase?

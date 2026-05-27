@@ -1,4 +1,4 @@
-# ComplianceOS — Architecture
+# Aurora Rayes ComplianceOS — Architecture
 
 > System design, data flow, and key engineering decisions.
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-ComplianceOS is a multi-tenant SaaS compliance automation platform built on Next.js 14 (App Router), Supabase (PostgreSQL + Auth + Storage), and Stripe. It enables engineering teams to manage SOC 2, ISO 27001, HIPAA, GDPR, and other compliance frameworks in a single, AI-assisted workspace.
+Aurora Rayes ComplianceOS is a multi-tenant SaaS compliance automation platform built on Next.js 14 (App Router), Supabase (PostgreSQL + Auth + Storage), and Stripe. It enables engineering teams to manage SOC 2, ISO 27001, HIPAA, GDPR, and other compliance frameworks in a single, AI-assisted workspace.
 
 ---
 

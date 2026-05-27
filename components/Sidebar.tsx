@@ -22,7 +22,7 @@ export default function Sidebar() {
       {/* Logo */}
       <div className="px-6 py-5 border-b border-gray-200">
         <Link href="/dashboard" className="flex items-center gap-2">
-          <span className="text-xl font-bold text-indigo-600">ComplianceOS</span>
+          <span className="text-xl font-bold text-indigo-600">Aurora Rayes ComplianceOS</span>
         </Link>
       </div>
 
@@ -49,7 +49,7 @@ export default function Sidebar() {
 
       {/* Footer */}
       <div className="px-4 py-4 border-t border-gray-200">
-        <p className="text-xs text-gray-400 text-center">ComplianceOS v1.0.0</p>
+        <p className="text-xs text-gray-400 text-center">Aurora Rayes ComplianceOS v1.0.0</p>
       </div>
     </aside>
   );
