@@ -135,3 +135,14 @@ Payments are disabled by default. Use PAYMENTS_ENABLED=false locally and only en
 ## Support and Refund Terms
 
 Support and refund expectations are documented in [docs/support.md](docs/support.md) and [docs/refund-policy.md](docs/refund-policy.md). Use placeholder emails and URLs until official Aurora Rayes channels are assigned.
+Built by [Aurora Rayes LLC](https://auroramarket.org) | [auroramarket.org/complianceos](https://auroramarket.org/complianceos)
+
+## Aurora Ecosystem Positioning
+This repository is positioned as an Aurora ecosystem building block, designed to interoperate with other Aurora projects for productized AI workflows.
+
+## No-Key-First Local Usage
+Use a no-key-first local workflow by default: run and evaluate core features without mandatory API keys, then optionally add provider keys for advanced integrations.
+
+## No-Key-First Usage
+This project follows a no-key-first approach for local evaluation. Core workflows run without API keys, and external providers are optional for advanced integrations.
+
